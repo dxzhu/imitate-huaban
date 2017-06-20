@@ -291,6 +291,7 @@ header .search .search-box i.search-icon {
     height: 36px;
     background: url(http://huaban.com/img/new_index/icon_search.svg) 9px 7px no-repeat;
     cursor: pointer;
+    z-index:100;
 }
 
 
